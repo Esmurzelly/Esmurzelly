@@ -7,7 +7,7 @@
 💻 My stack: HTML, CSS (SCSS, LESS, Bootstrap, TailwindCSS), JavaScript(ES6), TypeScript, JQuery, ReactJS, Redux Toolkit / RTK Query, GIT, PostgreSQL, MySQL, Docker, Figma, Adobe Photoshop  
   
 
-🤝 I'm ready to collaborate and make this worls better with you :)  
+🤝 I'm ready to collaborate and make this world better with you :)  
   
 
 🌱 I’m currently learning Frontend and Backend areas for being a Fullstack Developer  
