@@ -4,7 +4,7 @@
 🔭 I’m a Frontent Developer using ReactJS + TypeScript + TailwindCSS  
   
 
-💻 My stack: HTML, CSS (SCSS, LESS, Bootstrap, TailwindCSS), JavaScript(ES6), TypeScript, JQuery, ReactJS, Redux Toolkit / RTK Query, GIT, PostgreSQL, MySQL, Docker, Figma, Adobe Photoshop  
+💻 My stack: HTML, CSS (SCSS, LESS, Bootstrap, TailwindCSS), JavaScript(ES6), JQuery, ReactJS, NextJS, TypeScript, Redux Toolkit / RTK Query, Prisma, GIT, PostgreSQL, MySQL, MongoDB, Docker, Figma, Adobe Photoshop  
   
 
 🤝 I'm ready to collaborate and make this world better with you :)  
